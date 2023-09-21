@@ -2,6 +2,7 @@ Olá, meu nome é Caio!!🙃
  
  
  - ⚡ Estudando Programação...
+ - Desenvolvedor Front-end Junior, tenho buscado novso conhecimentos na area do Back-end
  - ...
 
 
