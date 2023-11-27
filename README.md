@@ -4,6 +4,10 @@
 - 🌱 Atualmente estou aprendendo Python, desenvolvendo algumas aplicações de Front-end
 - ⚡ Curiosidade: Sou uma pessoa muita curiosa, que está sempre buscando aprender coisas novas.
 
+<h2>Hello World! 👋</h2>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CaioC03)](https://github.com/CaioC03) 
+[![GitHub followers](https://img.shields.io/github/followers/CaioC03.svg?style=social&label=Follow)](https://github.com/CaioC03?tab=followers)
 
 
 <div align="center">
@@ -29,6 +33,5 @@
   <a href="https://www.linkedin.com/in/caio-c-aba89b139/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div>
 
-
-
+![Snake animation](https://github.com/CaioC03/CaioC03/blob/output/github-contribution-grid-snake.svg)
 
