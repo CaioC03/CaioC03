@@ -1,4 +1,4 @@
-## Olá pessoal meu nome é Caio👋
+# Olá pessoal meu nome é Caio👋
 
 - 🔭 Atualmente estou trabalhando em lugar nenhum rsrs
 - 🌱 Atualmente estou aprendendo Python, desenvolvendo algumas aplicações de Front-end
