@@ -1,9 +1,9 @@
-Olá, meu nome é Caio!!🙃
- 
- 
- - ⚡ Estudando Programação...
- - Desenvolvedor Front-end Junior, tenho buscado novso conhecimentos na area do Back-end
- - ...
+## Olá pessoal meu nome é Caio👋
+
+- 🔭 Atualmente estou trabalhando em lugar nenhum rsrs
+- 🌱 Atualmente estou aprendendo Python, desenvolvendo algumas aplicações de Front-end
+- ⚡ Curiosidade: Sou uma pessoa muita curiosa, que está sempre buscando aprender coisas novas.
+
 
 
 <div align="center">
