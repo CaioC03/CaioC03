@@ -128,7 +128,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150em" 
+      height="170em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioc03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
